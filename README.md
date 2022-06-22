@@ -1,16 +1,13 @@
-# bitcoin_ticker
+# Coin_ticker
 
-A new Flutter project.
+#This is an Coin Ticker app developed using flutter, it gives the price of all latest Cryptocurrency to selected currency.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/71991617/175104644-ed0be164-a906-4293-828b-bc504decdb64.png)
 
-This project is a starting point for a Flutter application.
+#At bottom there is a dropdown menu from where we can select the currency.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/71991617/175104924-6d321739-b088-40b4-8827-8b3c7563292f.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
